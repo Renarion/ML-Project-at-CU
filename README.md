@@ -5,6 +5,7 @@
 **Датасет:** [chicago-crime-dataset-2001-present](https://www.kaggle.com/datasets/nathaniellybrand/chicago-crime-dataset-2001-present)
 
 Выполнили: Юнисов Ренат и Хайретинов Григорий
+
 Состав файлов:
 - Файл с выполнением задания (Пайплайн разработки алгоритма)
 - Презентация решения
